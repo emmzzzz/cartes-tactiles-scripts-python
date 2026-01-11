@@ -1,2 +1,2 @@
 # cartes-tactiles-scripts-python
-Vous trouverez sur ce repo, le tableau des données que nous avons récoltées dans le cadre de notre PIR Sémiologie graphique pour papier thermogonflé. 
+Vous trouverez sur ce repo, le tableau des données que nous avons récoltées dans le cadre de notre PIR Sémiologie graphique pour papier thermogonflé ainsi que le code qui nous a permis d'obtenir les box-plot et de réaliser le test d'ANOVA. Il y également le script pour concaténer l'ensemble des fichiers réponses anonymisés, afin d'automatiser le traitement statistique.
